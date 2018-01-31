@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Rocks",
+    "description": "The name of the extension."
+  },
+  "appDescription": {
+    "message": "Rocks let you forget about spoilers",
+    "description": "The description of the extension."
+  },
+  "btnTooltip": {
+    "message": "Rocks",
+    "description": "Tooltip for the button."
+  }
+}

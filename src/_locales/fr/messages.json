@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Rocks",
+    "description": "Le nom de l'extension"
+  },
+  "appDescription": {
+    "message": "Rocks te protège contre les spoilers",
+    "description": "La description de l'extension."
+  },
+  "btnTooltip": {
+    "message": "Rocks",
+    "description": "Info-bulle pour le bouton."
+  }
+}
